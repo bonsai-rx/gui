@@ -2,7 +2,7 @@
 
 `Bonsai.Gui` is a collection of packages for the [Bonsai](https://bonsai-rx.org/) visual programming language for quickly composing user interfaces and real-time data visualization.
 
-To install `Bonsai.Gui` use the Bonsai package manager and search for the **Bonsai - GUI** package.
+To install `Bonsai.Gui`: open the Bonsai package manager, select the `nuget.org` package source in the top right corner,  and search for the **Bonsai.Gui** package.
 
 ## Build user interfaces
 
